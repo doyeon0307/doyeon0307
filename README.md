@@ -14,10 +14,4 @@
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
           <br/></div>
-    </div><br>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="!https://github-readme-stats.vercel.app/api?doyeon0307=anuraghazra&theme=dark&show_icons=true"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodo&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
     </div>
-    
