@@ -1,5 +1,5 @@
 # Welcom to my github 👐
-Hey, I'm Doyeon! I'm studying app development. Nice to meet you! :)
+Hi, I'm Doyeon! I'm studying app development. Nice to meet you! :)
 
 <br>
 
