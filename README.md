@@ -1,4 +1,7 @@
-Welcom to my github 👐
+# Welcom to my github 👐
+Hey, I'm Doyeon! I'm studying app development. Nice to meet you! :)
+
+<br>
 
 ## Skills
 ![kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -26,4 +29,11 @@ Welcom to my github 👐
 <br>
 
 ## Certificate
-- SQLD `2024.09~`
+- SQLD `2024.09`
+
+<br>
+
+## Others
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dodo03)](https://solved.ac/dodo03)
+
+![Doyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyeon0307&show_icons=true&theme=github_dark)
