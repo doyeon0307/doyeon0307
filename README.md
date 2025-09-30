@@ -27,6 +27,7 @@ Hi, I'm Doyeon! I'm studying app development. Nice to meet you :)
 <br>
 
 ## Activities
+- SOPT 37기 안드로이드 파트 `2025.09~`
 - (주) 와이오엘오 프로덕트팀 QA 인턴 `2025.03~`
 - KHU CSE 학술동아리 리턴 부회장 `2025.02~2025.07`
 - 구름톤 유니브 3기 FE `2024.08~2024.12`
