@@ -3,12 +3,6 @@ Hi, I'm Doyeon! I'm studying app development. Nice to meet you :)
 
 <br>
 
-## About me
-[![notion](https://img.shields.io/badge/porfolio-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://billowy-parakeet-433.notion.site/portfolio)
-[![tistory](https://img.shields.io/badge/blog-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white)](https://okarun.tistory.com/)
-
-<br>
-
 ## Skills
 ![kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![dart](https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
