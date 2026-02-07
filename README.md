@@ -1,6 +1,9 @@
 # Welcom to my github 👐
 Hi, I'm Doyeon! I'm studying app development. Nice to meet you :)
 
+## About Me
+[![portfolio](https://img.shields.io/badge/portfolio-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/JEON-DOYEON-2df84ff90888809abddcfc830c1dda77)
+
 <br>
 
 ## Skills
